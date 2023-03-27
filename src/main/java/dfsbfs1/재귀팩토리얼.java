@@ -1,17 +1,14 @@
 package dfsbfs1;
 
 public class 재귀팩토리얼 {
-
-    public static void DFS(int n) {
-        if (n == 0) {
-            return;
+    public static int DFS(int n) {
+        if (n == 1) {
+            return 1;
         } else {
-            DFS(n / 2);
-            System.out.print(n%2);
+            return n * DFS(n - 1);
         }
     }
     public static void main(String[] args) {
-        DFS(11);
+        System.out.println(DFS(5));
     }
-
 }

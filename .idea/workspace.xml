@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
       <change afterPath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀이진수출력.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀팩토리얼.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/string/단어뒤집기.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/string/문장속단어.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
@@ -58,9 +59,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.재귀이진수출력">
-    <configuration name="재귀함수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfsbfs1.재귀함수" />
+  <component name="RunManager" selected="Application.재귀팩토리얼">
+    <configuration name="재귀팩토리얼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfsbfs1.재귀팩토리얼" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.재귀팩토리얼" />
         <item itemvalue="Application.재귀이진수출력" />
         <item itemvalue="Application.Main22" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.재귀함수" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679748824737</updated>
       <workItem from="1679748825588" duration="6260000" />
-      <workItem from="1679926006590" duration="442000" />
+      <workItem from="1679926006590" duration="940000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -186,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679790378304</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="코딩 테스트 깃 추가">
+      <created>1679926943934</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679926943934</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
