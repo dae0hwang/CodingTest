@@ -24,8 +24,8 @@ public class 재귀이진트리순회 {
 
         if (node ==null) {
         } else {
-            DFS(node.lt);
             System.out.print(node.root+" ");
+            DFS(node.lt);
             DFS(node.rt);
         }
     }
@@ -33,14 +33,10 @@ public class 재귀이진트리순회 {
         Node four = new Node(4);
         Node five = new Node(5);
         Node two = new Node(2, four, five);
-
         Node six = new Node(6);
         Node seven = new Node(7);
         Node three = new Node(3, six, seven);
-
         Node one = new Node(1, two, three);
-
         DFS(one);
-
     }
 }
