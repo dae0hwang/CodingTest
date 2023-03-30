@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfsbfs1/부분집합구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀이진트리순회.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀이진트리순회.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/말단노드까지가장짧은경로.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dfsbfs1/말단노드까지가장짧은경로.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +60,39 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.부분집합구하기">
+  <component name="RunManager" selected="Application.말단노드까지가장짧은경로">
     <configuration name="재귀팩토리얼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dfsbfs1.재귀팩토리얼" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dfsbfs1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="말단노드까지가장짧은경로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfsbfs1.말단노드까지가장짧은경로" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfsbfs1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Main22" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,19 +132,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dfsbfs1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.Main22" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,9 +206,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.부분집합구하기" />
-        <item itemvalue="Application.재귀이진트리순회" />
-        <item itemvalue="Application.재귀피보나치수열" />
+        <item itemvalue="Application.말단노드까지가장짧은경로" />
         <item itemvalue="Application.재귀팩토리얼" />
         <item itemvalue="Application.Main22" />
       </list>
@@ -214,6 +224,7 @@
       <workItem from="1679926006590" duration="3037000" />
       <workItem from="1679967415871" duration="3005000" />
       <workItem from="1680069308503" duration="2983000" />
+      <workItem from="1680101032255" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -278,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680070056413</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="코딩 테스트 깃 추가">
+      <created>1680101407462</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680101407462</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

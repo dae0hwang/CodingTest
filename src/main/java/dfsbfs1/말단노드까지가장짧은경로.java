@@ -24,5 +24,6 @@ public class 말단노드까지가장짧은경로 {
         root.rt=new Node(3);
         root.lt.lt=new Node(4);
         root.lt.rt=new Node(5);
+        System.out.println(DFS(root, 0));
     }
 }
