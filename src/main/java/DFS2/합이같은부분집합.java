@@ -1,6 +1,5 @@
 package DFS2;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class 합이같은부분집합 {
@@ -13,6 +12,11 @@ public class 합이같은부분집합 {
     public static void DFS(int L, int sum) {
         if (flag) return;
         if (L == n) {
+            if ((total - sum) == sum) {
+                answer = "YES";
+                flag = true;
+            }
+        } else {
             //포함 된 것 arr[L]의 값이 합으로 들어 간 것
             DFS(L + 1, sum + arr[L]);
             //arr[L]의 값이 합으로 포함되지 않은 경우
@@ -27,6 +31,7 @@ public class 합이같은부분집합 {
             arr[i]=kb.nextInt();
             total+=arr[i];
         }
+        DFS(0, 0);
+        System.out.println(answer);
     }
-
 }
