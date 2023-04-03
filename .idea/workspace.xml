@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가" />
+    <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DFS2/순열구하기.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.중복순열">
+  <component name="RunManager" selected="Application.순열구하기">
     <configuration name="미로의최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BFS2.미로의최단거리" />
       <module name="codingtest.main" />
@@ -73,6 +75,19 @@
     </configuration>
     <configuration name="중복순열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFS2.중복순열" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="순열구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS2.순열구하기" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -281,6 +296,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.순열구하기" />
         <item itemvalue="Application.중복순열" />
         <item itemvalue="Application.미로의최단거리" />
         <item itemvalue="Application.경로탐색DFS" />
@@ -304,6 +320,7 @@
       <workItem from="1680242221617" duration="5352000" />
       <workItem from="1680274614245" duration="15000" />
       <workItem from="1680402113308" duration="5516000" />
+      <workItem from="1680480111386" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -417,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680408754425</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="코딩 테스트 깃 추가">
+      <created>1680480840791</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680480840791</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
