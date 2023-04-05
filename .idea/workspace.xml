@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/회문문자열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/유효한팰린드롬.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BFS2/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/수열추측하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DFS2/수열추측하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.회문문자열">
+  <component name="RunManager" selected="Application.수열추측하기">
     <configuration name="조합의경우의수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFS2.조합의경우의수" />
       <module name="codingtest.main" />
@@ -82,6 +81,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="유효한팰린드롬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.유효한팰린드롬" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="수열추측하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS2.수열추측하기" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,6 +376,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.수열추측하기" />
+        <item itemvalue="Application.유효한팰린드롬" />
         <item itemvalue="Application.회문문자열" />
         <item itemvalue="Application.조합의경우의수" />
         <item itemvalue="Application.Main" />
@@ -376,7 +403,7 @@
       <workItem from="1680402113308" duration="5516000" />
       <workItem from="1680480111386" duration="3413000" />
       <workItem from="1680570700622" duration="5716000" />
-      <workItem from="1680669087369" duration="374000" />
+      <workItem from="1680669087369" duration="2297000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -525,7 +552,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680585863788</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="코딩 테스트 깃 추가">
+      <created>1680669531747</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680669531747</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
