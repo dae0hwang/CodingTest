@@ -62,12 +62,16 @@ public class 피자배달거리 {
                 else if(tmp==2) pz.add(new Point(i, j));
             }
         }
-        //피자집 len개 중에 m개 조합 고르기
-        len=pz.size();
-        //m개 조합 넣을 배열
-        combi=new int[m];
-        DFS(0, 0);
-        System.out.println(answer);
+        for (Point point : hs) {
+            System.out.println(point.x +"  "+ point.y);
+        }
+
+//        //피자집 len개 중에 m개 조합 고르기
+//        len=pz.size();
+//        //m개 조합 넣을 배열
+//        combi=new int[m];
+//        DFS(0, 0);
+//        System.out.println(answer);
     }
 
 
