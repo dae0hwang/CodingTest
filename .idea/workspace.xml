@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/배열/가위바위보.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/배열/보이는학생.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/배열/큰수출력하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/그리디/결혼식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/그리디/회의실배정.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.보이는학생">
+  <component name="RunManager" selected="Application.결혼식">
     <configuration name="조합의경우의수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFS2.조합의경우의수" />
       <module name="codingtest.main" />
@@ -95,6 +94,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="배열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="회의실배정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.회의실배정" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="결혼식" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.결혼식" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -507,6 +532,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.결혼식" />
+        <item itemvalue="Application.회의실배정" />
         <item itemvalue="Application.보이는학생" />
         <item itemvalue="Application.큰수출력하기" />
         <item itemvalue="Application.조합의경우의수" />
@@ -535,7 +562,7 @@
       <workItem from="1680669087369" duration="4764000" />
       <workItem from="1680739335232" duration="5670000" />
       <workItem from="1680943995726" duration="5599000" />
-      <workItem from="1681130653242" duration="682000" />
+      <workItem from="1681130653242" duration="2955000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -747,7 +774,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681090699196</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="코딩 테스트 깃 추가">
+      <created>1681131369366</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1681131369366</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
