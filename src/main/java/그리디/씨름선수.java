@@ -32,7 +32,6 @@ public class 씨름선수 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-
         List<Man> list = new ArrayList<Man>();
         for (int i = 0; i < n; i++) {
             int height = sc.nextInt();
