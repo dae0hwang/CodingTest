@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/그리디/최대수입스케쥴.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/뒤짚은소수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/소수_에라토스테네스체.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/피보나치수열.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +62,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.최대수입스케쥴">
+  <component name="RunManager" selected="Application.뒤짚은소수">
     <configuration name="조합의경우의수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFS2.조합의경우의수" />
       <module name="codingtest.main" />
@@ -80,6 +82,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="피보나치수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.피보나치수열" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="뒤짚은소수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.뒤짚은소수" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -542,8 +570,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="소수_에라토스테네스체" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.소수_에라토스테네스체" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.뒤짚은소수" />
+        <item itemvalue="Application.소수_에라토스테네스체" />
+        <item itemvalue="Application.피보나치수열" />
         <item itemvalue="Application.최대수입스케쥴" />
         <item itemvalue="Application.조합의경우의수" />
       </list>
@@ -572,7 +616,7 @@
       <workItem from="1680739335232" duration="5670000" />
       <workItem from="1680943995726" duration="5599000" />
       <workItem from="1681130653242" duration="4203000" />
-      <workItem from="1681187471553" duration="2027000" />
+      <workItem from="1681187471553" duration="3485000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -798,7 +842,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681133660067</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="코딩 테스트 깃 추가">
+      <created>1681189732910</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1681189732910</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
