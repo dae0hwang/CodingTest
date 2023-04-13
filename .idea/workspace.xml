@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/그리디/친구인가.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/그리디/친구인가유니온파인드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/등수구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/점수계산.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +61,13 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.친구인가유니온파인드">
-    <configuration name="조합의경우의수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS2.조합의경우의수" />
+  <component name="RunManager" selected="Application.등수구하기">
+    <configuration name="등수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.등수구하기" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS2.*" />
+          <option name="PATTERN" value="배열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +94,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="점수계산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.점수계산" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -623,10 +636,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.등수구하기" />
+        <item itemvalue="Application.점수계산" />
         <item itemvalue="Application.친구인가유니온파인드" />
         <item itemvalue="Application.친구인가" />
         <item itemvalue="Application.소수_에라토스테네스체" />
-        <item itemvalue="Application.조합의경우의수" />
       </list>
     </recent_temporary>
   </component>
@@ -654,7 +668,7 @@
       <workItem from="1680943995726" duration="5599000" />
       <workItem from="1681130653242" duration="4203000" />
       <workItem from="1681187471553" duration="3869000" />
-      <workItem from="1681347427504" duration="2120000" />
+      <workItem from="1681347427504" duration="3300000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -894,7 +908,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681191341086</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="코딩 테스트 깃 추가">
+      <created>1681350108271</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1681350108271</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
