@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/배열/격자판최대합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/봉우리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/배열/임시반장구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.격자판최대합">
+  <component name="RunManager" selected="Application.임시반장구하기">
     <configuration name="등수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="배열.등수구하기" />
       <module name="codingtest.main" />
@@ -89,6 +90,19 @@
     </configuration>
     <configuration name="격자판최대합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="배열.격자판최대합" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="임시반장구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.임시반장구하기" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -661,6 +675,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.임시반장구하기" />
         <item itemvalue="Application.격자판최대합" />
         <item itemvalue="Application.원더랜드" />
         <item itemvalue="Application.등수구하기" />
@@ -693,7 +708,7 @@
       <workItem from="1681130653242" duration="4203000" />
       <workItem from="1681187471553" duration="3869000" />
       <workItem from="1681347427504" duration="4771000" />
-      <workItem from="1681433623180" duration="1921000" />
+      <workItem from="1681433623180" duration="5289000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -954,7 +969,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681435094579</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="코딩 테스트 깃 추가">
+      <created>1681435805790</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1681435805790</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
