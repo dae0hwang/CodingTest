@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/투포인터/연속된자연수의합수학방법.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/투포인터/최대길이연속부분수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/해시셋/학급회장.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +61,13 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.연속된자연수의합수학방법">
-    <configuration name="등수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="배열.등수구하기" />
+  <component name="RunManager" selected="Application.학급회장">
+    <configuration name="학급회장" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해시셋.학급회장" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="배열.*" />
+          <option name="PATTERN" value="해시셋.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,6 +103,19 @@
     </configuration>
     <configuration name="연속된자연수의합수학방법" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="투포인터.연속된자연수의합수학방법" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="투포인터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="최대길이연속부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="투포인터.최대길이연속부분수열" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -816,10 +831,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.학급회장" />
+        <item itemvalue="Application.최대길이연속부분수열" />
         <item itemvalue="Application.연속된자연수의합수학방법" />
         <item itemvalue="Application.가장높은탑쌓기" />
         <item itemvalue="Application.연속부분수열2" />
-        <item itemvalue="Application.등수구하기" />
       </list>
     </recent_temporary>
   </component>
@@ -853,7 +869,7 @@
       <workItem from="1681693720138" duration="3806000" />
       <workItem from="1681782187082" duration="2515000" />
       <workItem from="1681798326009" duration="1529000" />
-      <workItem from="1681952899233" duration="2405000" />
+      <workItem from="1681952899233" duration="6242000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -1177,7 +1193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681954886841</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="코딩 테스트 깃 추가">
+      <created>1681955798503</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1681955798503</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
