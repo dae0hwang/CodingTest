@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/투포인터/최대길이연속부분수열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/해시셋/학급회장.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -869,7 +865,7 @@
       <workItem from="1681693720138" duration="3806000" />
       <workItem from="1681782187082" duration="2515000" />
       <workItem from="1681798326009" duration="1529000" />
-      <workItem from="1681952899233" duration="6242000" />
+      <workItem from="1681952899233" duration="6904000" />
     </task>
     <task id="LOCAL-00001" summary="첫 커밋">
       <created>1679749102482</created>
@@ -1200,7 +1196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681955798503</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="코딩 테스트 깃 추가">
+      <created>1681995202735</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1681995202735</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
