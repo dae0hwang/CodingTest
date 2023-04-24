@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/해시셋/매출액의종류.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/해시셋/아나그램.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTest">
+  <component name="RunManager" selected="Application.매출액의종류">
     <configuration name="학급회장" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="해시셋.학급회장" />
       <module name="codingtest.main" />
@@ -94,6 +94,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="다이나믹.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="아나그램" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해시셋.아나그램" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="해시셋.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="매출액의종류" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해시셋.매출액의종류" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="해시셋.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -883,6 +909,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.매출액의종류" />
+        <item itemvalue="Application.아나그램" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.학급회장" />
         <item itemvalue="Application.연속부분수열2" />
@@ -924,14 +952,7 @@
       <workItem from="1682217395119" duration="3684000" />
       <workItem from="1682245771734" duration="15000" />
       <workItem from="1682302765433" duration="3193000" />
-      <workItem from="1682310207234" duration="384000" />
-    </task>
-    <task id="LOCAL-00003" summary="코딩 테스트 깃 추가">
-      <created>1679750427957</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1679750427957</updated>
+      <workItem from="1682310207234" duration="3394000" />
     </task>
     <task id="LOCAL-00004" summary="코딩 테스트 깃 추가">
       <created>1679790378304</created>
@@ -1269,7 +1290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682245782692</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="코딩 테스트 깃 추가">
+      <created>1682313619161</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1682313619162</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
