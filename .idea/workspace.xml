@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/해시셋/매출액의종류.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/해시셋/아나그램.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/스택큐/괄호문자제거.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/스택큐/올바른괄호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/스택큐/크레인인형뽑기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/해시셋/K번째큰수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/해시셋/모든아나그램찾기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +64,13 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.매출액의종류">
-    <configuration name="학급회장" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="해시셋.학급회장" />
+  <component name="RunManager" selected="Application.크레인인형뽑기">
+    <configuration name="괄호문자제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="스택큐.괄호문자제거" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="해시셋.*" />
+          <option name="PATTERN" value="스택큐.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="연속부분수열2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="투포인터.연속부분수열2" />
+    <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="스택큐.올바른괄호" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="투포인터.*" />
+          <option name="PATTERN" value="스택큐.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="아나그램" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="해시셋.아나그램" />
+    <configuration name="모든아나그램찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해시셋.모든아나그램찾기" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -114,103 +117,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="매출액의종류" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="해시셋.매출액의종류" />
+    <configuration name="크레인인형뽑기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="스택큐.크레인인형뽑기" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="스택큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="K번째큰수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해시셋.K번째큰수" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="해시셋.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="복습.StringTest" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="복습.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="문자열압축" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.문자열압축" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="재귀이진수출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfsbfs1.재귀이진수출력" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dfsbfs1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="두배열합치기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="투포인터.두배열합치기" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="투포인터.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="섬나라아일랜드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BFS2.섬나라아일랜드" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFS2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="공통원소구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="투포인터.공통원소구하기" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="투포인터.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="그래프인접리스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그래프와인접행렬.그래프인접리스트" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="그래프와인접행렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,6 +273,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="아나그램" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해시셋.아나그램" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="해시셋.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="암호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.암호" />
       <module name="codingtest.main" />
@@ -471,6 +409,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="매출액의종류" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해시셋.매출액의종류" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="해시셋.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -608,6 +559,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="문자열압축" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.문자열압축" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="뒤짚은소수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="배열.뒤짚은소수" />
       <module name="codingtest.main" />
@@ -731,6 +695,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="투포인터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="재귀이진수출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfsbfs1.재귀이진수출력" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfsbfs1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -868,6 +845,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="두배열합치기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="투포인터.두배열합치기" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="투포인터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="숫자만추출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.숫자만추출" />
       <module name="codingtest.main" />
@@ -907,13 +897,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="섬나라아일랜드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS2.섬나라아일랜드" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="공통원소구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="투포인터.공통원소구하기" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="투포인터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="그래프인접리스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그래프와인접행렬.그래프인접리스트" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그래프와인접행렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.매출액의종류" />
-        <item itemvalue="Application.아나그램" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.학급회장" />
-        <item itemvalue="Application.연속부분수열2" />
+        <item itemvalue="Application.크레인인형뽑기" />
+        <item itemvalue="Application.괄호문자제거" />
+        <item itemvalue="Application.올바른괄호" />
+        <item itemvalue="Application.K번째큰수" />
+        <item itemvalue="Application.모든아나그램찾기" />
       </list>
     </recent_temporary>
   </component>
@@ -952,14 +981,8 @@
       <workItem from="1682217395119" duration="3684000" />
       <workItem from="1682245771734" duration="15000" />
       <workItem from="1682302765433" duration="3193000" />
-      <workItem from="1682310207234" duration="3394000" />
-    </task>
-    <task id="LOCAL-00004" summary="코딩 테스트 깃 추가">
-      <created>1679790378304</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1679790378304</updated>
+      <workItem from="1682310207234" duration="5387000" />
+      <workItem from="1682401808930" duration="5390000" />
     </task>
     <task id="LOCAL-00005" summary="코딩 테스트 깃 추가">
       <created>1679926943934</created>
@@ -1297,7 +1320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682313619162</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="코딩 테스트 깃 추가">
+      <created>1682317185773</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1682317185773</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1339,6 +1369,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/해시셋/매출액의종류.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
