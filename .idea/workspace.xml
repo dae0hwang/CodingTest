@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/스택큐/공주구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/스택큐/교육과정설계.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/스택큐/쇠막대기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/스택큐/후위식연산.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1008,14 +1004,7 @@
       <workItem from="1682302765433" duration="3193000" />
       <workItem from="1682310207234" duration="5387000" />
       <workItem from="1682401808930" duration="5709000" />
-      <workItem from="1682470079752" duration="3792000" />
-    </task>
-    <task id="LOCAL-00006" summary="코딩 테스트 깃 추가">
-      <created>1679927611001</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1679927611001</updated>
+      <workItem from="1682470079752" duration="4818000" />
     </task>
     <task id="LOCAL-00007" summary="코딩 테스트 깃 추가">
       <created>1679968265321</created>
@@ -1353,7 +1342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682430889130</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="코딩 테스트 깃 추가">
+      <created>1682474376736</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1682474376737</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
