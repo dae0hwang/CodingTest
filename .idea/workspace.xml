@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/스택큐/응급실.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/정렬/버블정렬.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/정렬/선택정렬.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.응급실">
+  <component name="RunManager" selected="Application.버블정렬">
     <configuration name="괄호문자제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="스택큐.괄호문자제거" />
       <module name="codingtest.main" />
@@ -80,6 +81,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="스택큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="선택정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="정렬.선택정렬" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="버블정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="정렬.버블정렬" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="정렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -973,6 +1000,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.버블정렬" />
+        <item itemvalue="Application.선택정렬" />
         <item itemvalue="Application.응급실" />
         <item itemvalue="Application.괄호문자제거" />
       </list>
@@ -1017,14 +1046,7 @@
       <workItem from="1682401808930" duration="5709000" />
       <workItem from="1682470079752" duration="4818000" />
       <workItem from="1682518744835" duration="773000" />
-      <workItem from="1682556531130" duration="1041000" />
-    </task>
-    <task id="LOCAL-00008" summary="코딩 테스트 깃 추가">
-      <created>1680012446557</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1680012446557</updated>
+      <workItem from="1682556531130" duration="4509000" />
     </task>
     <task id="LOCAL-00009" summary="코딩 테스트 깃 추가">
       <created>1680070056413</created>
@@ -1362,7 +1384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682519509660</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="코딩 테스트 깃 추가">
+      <created>1682558010558</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1682558010558</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
