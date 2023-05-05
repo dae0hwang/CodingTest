@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/백준DFSBFS/영역구하기2583.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/공주구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/교육과정설계2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/응급실2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/후위식연산2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1244,13 +1237,7 @@
       <workItem from="1682990112691" duration="3695000" />
       <workItem from="1683078631371" duration="3817000" />
       <workItem from="1683167802841" duration="3976000" />
-    </task>
-    <task id="LOCAL-00016" summary="코딩 테스트 깃 추가">
-      <created>1680408754425</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1680408754425</updated>
+      <workItem from="1683211284947" duration="486000" />
     </task>
     <task id="LOCAL-00017" summary="코딩 테스트 깃 추가">
       <created>1680480840791</created>
@@ -1588,7 +1575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683167811499</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="코딩 테스트 깃 추가">
+      <created>1683211766766</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1683211766767</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
