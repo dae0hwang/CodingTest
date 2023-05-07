@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/경로탐색.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/그래프최단거리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/부분집합구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/이진트리순회.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/복습/조합구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/복습/중복순열구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/재귀함수2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/복습/재귀함수2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,22 +67,9 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.그래프최단거리">
+  <component name="RunManager" selected="Application.조합구하기">
     <configuration name="이진트리순회" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="복습.이진트리순회" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="복습.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="경로탐색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="복습.경로탐색" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -175,8 +159,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="그래프최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="복습.그래프최단거리" />
+    <configuration name="중복순열구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="복습.중복순열구하기" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -188,77 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최대길이연속부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="투포인터.최대길이연속부분수열" />
+    <configuration name="조합구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="복습.조합구하기" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="투포인터.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="멘토링" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="배열.멘토링" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="배열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="최대수입스케쥴" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.최대수입스케쥴" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="그리디.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="숫자만추출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.숫자만추출" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="합이같은부분집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS2.합이같은부분집합" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFS2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="순열구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS2.순열구하기" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFS2.*" />
+          <option name="PATTERN" value="복습.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,6 +315,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="경로탐색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="복습.경로탐색" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="복습.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="섬나라아일랜드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BFS2.섬나라아일랜드" />
       <module name="codingtest.main" />
@@ -519,6 +451,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="그래프최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="복습.그래프최단거리" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="복습.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -656,6 +601,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="최대길이연속부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="투포인터.최대길이연속부분수열" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="투포인터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="최대매출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="투포인터.최대매출" />
       <module name="codingtest.main" />
@@ -779,6 +737,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="다이나믹.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="멘토링" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.멘토링" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -916,6 +887,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="최대수입스케쥴" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.최대수입스케쥴" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="말단노드까지가장짧은경로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dfsbfs1.말단노드까지가장짧은경로" />
       <module name="codingtest.main" />
@@ -1039,6 +1023,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="배열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자만추출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.숫자만추출" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1176,6 +1173,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="합이같은부분집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS2.합이같은부분집합" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="후위식연산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="스택큐.후위식연산" />
       <module name="codingtest.main" />
@@ -1228,12 +1238,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="순열구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS2.순열구하기" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.그래프최단거리" />
-        <item itemvalue="Application.경로탐색" />
+        <item itemvalue="Application.조합구하기" />
+        <item itemvalue="Application.중복순열구하기" />
         <item itemvalue="Application.이진트리순회" />
-        <item itemvalue="Application.재귀함수2" />
         <item itemvalue="Application.이분검색2" />
       </list>
     </recent_temporary>
@@ -1288,14 +1310,8 @@
       <workItem from="1683167802841" duration="3976000" />
       <workItem from="1683211284947" duration="486000" />
       <workItem from="1683298192503" duration="647000" />
-      <workItem from="1683339980216" duration="11619000" />
-    </task>
-    <task id="LOCAL-00021" summary="코딩 테스트 깃 추가">
-      <created>1680585863788</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1680585863788</updated>
+      <workItem from="1683339980216" duration="12463000" />
+      <workItem from="1683429193096" duration="1939000" />
     </task>
     <task id="LOCAL-00022" summary="코딩 테스트 깃 추가">
       <created>1680669531747</created>
@@ -1633,7 +1649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683354823343</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="코딩 테스트 깃 추가">
+      <created>1683425313564</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1683425313564</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
