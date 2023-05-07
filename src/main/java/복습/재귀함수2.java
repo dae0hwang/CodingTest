@@ -13,5 +13,4 @@ public class 재귀함수2 {
     public static void main(String[] args){
         DFS(11);
     }
-
 }
