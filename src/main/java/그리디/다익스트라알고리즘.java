@@ -10,7 +10,7 @@ public class 다익스트라알고리즘 {
     static ArrayList<ArrayList<Edge>> graph;
     static int[] dis;
 
-    static class Edge implements Comparable<Edge>{
+    public static class Edge implements Comparable<Edge>{
         public int vex;
         public int cost;
         Edge(int vex, int cost) {
@@ -71,6 +71,4 @@ public class 다익스트라알고리즘 {
             else System.out.println(i+" : impossible");
         }
     }
-
-
 }
