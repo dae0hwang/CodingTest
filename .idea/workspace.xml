@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/결혼식.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/복습/다익스트라복습.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/백준DFSBFS/단지번호붙이기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/복습/원더랜드1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/다익스트라알고리즘.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/그리디/다익스트라알고리즘.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/씨름선수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/복습/씨름선수.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.괄호">
+  <component name="RunManager" selected="Application.단지번호붙이기">
     <configuration name="괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준스택큐.괄호" />
       <module name="codingtest.main" />
@@ -141,6 +139,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="복습.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="단지번호붙이기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준DFSBFS.단지번호붙이기" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준DFSBFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1294,6 +1305,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.단지번호붙이기" />
         <item itemvalue="Application.괄호" />
       </list>
     </recent_temporary>
@@ -1351,13 +1363,7 @@
       <workItem from="1683339980216" duration="12463000" />
       <workItem from="1683429193096" duration="6752000" />
       <workItem from="1683599870179" duration="4180000" />
-    </task>
-    <task id="LOCAL-00024" summary="코딩 테스트 깃 추가">
-      <created>1680672655734</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1680672655734</updated>
+      <workItem from="1683776766618" duration="2064000" />
     </task>
     <task id="LOCAL-00025" summary="코딩 테스트 깃 추가">
       <created>1680742082665</created>
@@ -1695,7 +1701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683599960304</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="코딩 테스트 깃 추가">
+      <created>1683776969194</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1683776969195</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
