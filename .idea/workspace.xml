@@ -5,178 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/순조부/부분집합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/DFS말단노드.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/넓이우선.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/송아지찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/송아지찾기2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/취업전/복습하기/DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/면접/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/순조부/순열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/순조부/중복순열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/순조부/최대점수구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BFS2/동전교환.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/BFS2/동전교환.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BFS2/미로의최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/BFS2/미로의최단거리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BFS2/섬나라아일랜드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/BFS2/섬나라아일랜드.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BFS2/토마토.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/BFS2/토마토.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/미로탐색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/미로탐색.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/섬나라아일랜드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/섬나라아일랜드.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/수열추측하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/수열추측하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/순열구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/순열구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/조합구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/조합구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/조합의경우의수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/조합의경우의수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/중복순열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/중복순열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/최대점수구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/최대점수구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/피자배달거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/피자배달거리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DFS2/합이같은부분집합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/DFS2/합이같은부분집합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bfs/송아지찾기상태트리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/bfs/송아지찾기상태트리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bfs/이진트리순회.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/bfs/이진트리순회.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/말단노드까지가장짧은경로.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/dfsbfs1/말단노드까지가장짧은경로.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/부분집합구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/dfsbfs1/부분집합구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀이진수출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/dfsbfs1/재귀이진수출력.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀이진트리순회.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/dfsbfs1/재귀이진트리순회.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀팩토리얼.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/dfsbfs1/재귀팩토리얼.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀피보나치수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/dfsbfs1/재귀피보나치수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dfsbfs1/재귀함수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/dfsbfs1/재귀함수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/단어뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/단어뒤집기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/대소문자변환.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/대소문자변환.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/문자거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/문자거리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/문자열압축.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/문자열압축.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/문자열찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/문자열찾기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/문장속단어.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/문장속단어.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/숫자만추출.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/숫자만추출.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/암호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/암호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/유효한팰린드롬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/유효한팰린드롬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/중복문자제거.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/중복문자제거.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/특정문자뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/특정문자뒤집기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/회문문자열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/string/회문문자열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그래프와인접행렬/경로탐색DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그래프와인접행렬/경로탐색DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그래프와인접행렬/그래프와인접행렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그래프와인접행렬/그래프와인접행렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그래프와인접행렬/그래프인접리스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그래프와인접행렬/그래프인접리스트.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그래프와인접행렬/그래프최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그래프와인접행렬/그래프최단거리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/결혼식.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/결혼식.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/다익스트라알고리즘.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/다익스트라알고리즘.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/씨름선수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/씨름선수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/원더랜드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/원더랜드.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/원더랜드우선순위큐.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/원더랜드우선순위큐.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/최대수입스케쥴.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/최대수입스케쥴.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/친구인가.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/친구인가.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/친구인가유니온파인드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/친구인가유니온파인드.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/그리디/회의실배정.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/그리디/회의실배정.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/다이나믹/가장높은탑쌓기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/다이나믹/가장높은탑쌓기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/다이나믹/계단오르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/다이나믹/계단오르기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/다이나믹/동전교환.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/다이나믹/동전교환.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/다이나믹/최대부분증가수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/다이나믹/최대부분증가수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/다이나믹/최대점수구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/다이나믹/최대점수구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/다이나믹/최대점수구하기2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/다이나믹/최대점수구하기2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/가위바위보.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/가위바위보.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/격자판최대합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/격자판최대합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/뒤짚은소수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/뒤짚은소수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/등수구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/등수구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/멘토링.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/멘토링.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/보이는학생.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/보이는학생.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/봉우리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/봉우리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/소수_에라토스테네스체.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/소수_에라토스테네스체.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/임시반장구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/임시반장구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/점수계산.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/점수계산.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/큰수출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/큰수출력하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/배열/피보나치수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/배열/피보나치수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준DFSBFS/DFS복습.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준DFSBFS/DFS복습.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준DFSBFS/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준DFSBFS/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준DFSBFS/단지번호붙이기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준DFSBFS/단지번호붙이기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준DFSBFS/스도쿠.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준DFSBFS/스도쿠.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준DFSBFS/알파벳.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준DFSBFS/알파벳.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준DFSBFS/암호만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준DFSBFS/암호만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준스택큐/괄호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준스택큐/괄호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준스택큐/문자열폭발.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준스택큐/문자열폭발.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/백준스택큐/크게만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/백준스택큐/크게만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/K번째큰수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/K번째큰수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/결혼식.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/결혼식.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/경로탐색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/경로탐색.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/공주구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/공주구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/공통원소구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/공통원소구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/교육과정설계2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/교육과정설계2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/그래프최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/그래프최단거리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/다익스트라복습.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/다익스트라복습.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/동전교환냅색알고리즘.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/동전교환냅색알고리즘.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/두배열합치기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/두배열합치기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/뒤집은소수2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/뒤집은소수2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/등수구하기2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/등수구하기2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/매출액의종류.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/매출액의종류.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/멘토링.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/멘토링.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/미로최단거리통로.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/미로최단거리통로.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/버블정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/버블정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/부분집합구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/부분집합구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/삽입정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/삽입정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/선택정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/선택정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/섬나라아일랜드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/섬나라아일랜드.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/씨름선수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/씨름선수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/아나그램2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/아나그램2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/연속된자연수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/연속된자연수의합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/연속부분수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/연속부분수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/원더랜드1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/원더랜드1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/응급실2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/응급실2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/이분검색2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/이분검색2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/이진트리순회.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/이진트리순회.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/임시반장2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/임시반장2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/재귀함수2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/재귀함수2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/조합구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/조합구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/중복순열구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/중복순열구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/최대길이연속부분수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/최대길이연속부분수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/최대부분증가수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/최대부분증가수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/최대점수구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/최대점수구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/친구인가.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/친구인가.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/캐시메모리2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/캐시메모리2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/후위식연산2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/후위식연산2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/복습/히스토그램.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/복습/히스토그램.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/스택큐/공주구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/스택큐/공주구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/스택큐/괄호문자제거.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/스택큐/괄호문자제거.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/스택큐/교육과정설계.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/스택큐/교육과정설계.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/스택큐/쇠막대기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/스택큐/쇠막대기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/스택큐/올바른괄호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/스택큐/올바른괄호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/스택큐/응급실.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/스택큐/응급실.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/스택큐/크레인인형뽑기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/스택큐/크레인인형뽑기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/스택큐/후위식연산.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/스택큐/후위식연산.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/정렬/LeastRecentlyUsed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/정렬/LeastRecentlyUsed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/정렬/마구간정하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/정렬/마구간정하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/정렬/뮤직비디오.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/정렬/뮤직비디오.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/정렬/버블정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/정렬/버블정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/정렬/삽입정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/정렬/삽입정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/정렬/선택정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/정렬/선택정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/정렬/이분검색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/정렬/이분검색.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/정렬/좌표정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/정렬/좌표정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/투포인터/공통원소구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/투포인터/공통원소구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/투포인터/두배열합치기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/투포인터/두배열합치기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/투포인터/연속된자연수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/투포인터/연속된자연수의합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/투포인터/연속된자연수의합수학방법.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/투포인터/연속된자연수의합수학방법.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/투포인터/연속부분수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/투포인터/연속부분수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/투포인터/연속부분수열2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/투포인터/연속부분수열2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/투포인터/최대길이연속부분수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/투포인터/최대길이연속부분수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/투포인터/최대매출.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/투포인터/최대매출.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스2/과제진행하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스2/과제진행하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스2/광물캐기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스2/광물캐기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스2/리코쳇로봇.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스2/리코쳇로봇.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스2/연속된부분수열의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스2/연속된부분수열의합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스2/요격시스템.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스2/요격시스템.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/가장가까운같은글자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/가장가까운같은글자.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/개인정보수집유효기간.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/개인정보수집유효기간.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/공원산책.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/공원산책.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/달리기경주.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/달리기경주.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/대충만든자판.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/대충만든자판.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/덧칠하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/덧칠하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/둘만의암호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/둘만의암호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/명예의전당.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/명예의전당.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/문자열나누기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/문자열나누기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/바탕화면정리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/바탕화면정리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/추억점수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/추억점수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/카드뭉치.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/카드뭉치.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스L1/크기가작은부분문자열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/프로그래머스L1/크기가작은부분문자열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/해시셋/K번째큰수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/해시셋/K번째큰수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/해시셋/매출액의종류.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/해시셋/매출액의종류.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/해시셋/모든아나그램찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/해시셋/모든아나그램찾기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/해시셋/아나그램.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/해시셋/아나그램.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/해시셋/학급회장.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/취업전/해시셋/학급회장.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/순조부/합이같은부분집합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/순조부/합이같은부분집합.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,12 +129,13 @@
       <recent name="C:\Users\geung\IdeaProjects\codingtest\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="알고리즘복습" />
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.송아지찾기">
-    <configuration name="부분집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="순조부.부분집합" />
+  <component name="RunManager" selected="Application.순열">
+    <configuration name="최대점수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="순조부.최대점수구하기" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -312,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="넓이우선" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘복습.넓이우선" />
+    <configuration name="순열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="순조부.순열" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘복습.*" />
+          <option name="PATTERN" value="순조부.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,8 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFS말단노드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘복습.DFS말단노드" />
+    <configuration name="합이같은부분집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="순조부.합이같은부분집합" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -403,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘복습.Main2" />
+    <configuration name="중복순열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="순조부.중복순열" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘복습.*" />
+          <option name="PATTERN" value="순조부.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1809,11 +1644,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.순열" />
+        <item itemvalue="Application.중복순열" />
+        <item itemvalue="Application.최대점수구하기" />
+        <item itemvalue="Application.합이같은부분집합" />
         <item itemvalue="Application.송아지찾기" />
-        <item itemvalue="Application.넓이우선" />
-        <item itemvalue="Application.DFS말단노드" />
-        <item itemvalue="Application.부분집합" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -1884,14 +1719,7 @@
       <workItem from="1685666918949" duration="6177000" />
       <workItem from="1685931591802" duration="3492000" />
       <workItem from="1686101041213" duration="6591000" />
-      <workItem from="1688345966571" duration="6895000" />
-    </task>
-    <task id="LOCAL-00040" summary="코딩 테스트 깃 추가">
-      <created>1681527540345</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1681527540345</updated>
+      <workItem from="1688345966571" duration="12919000" />
     </task>
     <task id="LOCAL-00041" summary="코딩 테스트 깃 추가">
       <created>1681528963263</created>
@@ -2229,7 +2057,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686140431992</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="코딩 테스트 깃 추가">
+      <created>1688354191163</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1688354191164</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
