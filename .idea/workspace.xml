@@ -5,21 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/가장높은탑쌓기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/가장짧은거리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/계단오르기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/동전교환2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/뒤집은소수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/등수구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/멘토링.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/문자열압축하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/임시반장구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/중복문자제거.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/최대부분증가수열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/자바공부/Equal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/자바공부/FinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/K번째큰수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/공주구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/교육설계과정.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/두배열합치기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/매출액의종류.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/아나그램.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/연속된부분수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/연속된자연수의합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/응급실.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/최대길이연속부분수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/후위식연산.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,9 +139,9 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.멘토링">
-    <configuration name="임시반장구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘복습.임시반장구하기" />
+  <component name="RunManager" selected="Application.응급실">
+    <configuration name="교육설계과정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘복습.교육설계과정" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="등수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘복습.등수구하기" />
+    <configuration name="공주구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘복습.공주구하기" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -208,8 +205,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="뒤집은소수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘복습.뒤집은소수" />
+    <configuration name="응급실" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘복습.응급실" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -221,8 +218,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="멘토링" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘복습.멘토링" />
+    <configuration name="매출액의종류" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘복습.매출액의종류" />
+      <module name="codingtest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘복습.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="K번째큰수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘복습.K번째큰수" />
       <module name="codingtest.main" />
       <extension name="coverage">
         <pattern>
@@ -1651,26 +1661,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바공부.ss" />
-      <module name="codingtest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="자바공부.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.멘토링" />
-        <item itemvalue="Application.임시반장구하기" />
-        <item itemvalue="Application.등수구하기" />
-        <item itemvalue="Application.뒤집은소수" />
-        <item itemvalue="Application.ss" />
+        <item itemvalue="Application.응급실" />
+        <item itemvalue="Application.교육설계과정" />
+        <item itemvalue="Application.공주구하기" />
+        <item itemvalue="Application.K번째큰수" />
+        <item itemvalue="Application.매출액의종류" />
       </list>
     </recent_temporary>
   </component>
@@ -1742,14 +1739,7 @@
       <workItem from="1685931591802" duration="3492000" />
       <workItem from="1686101041213" duration="6591000" />
       <workItem from="1688345966571" duration="43972000" />
-      <workItem from="1688515392585" duration="4921000" />
-    </task>
-    <task id="LOCAL-00045" summary="코딩 테스트 깃 추가">
-      <created>1681799254661</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1681799254661</updated>
+      <workItem from="1688515392585" duration="12082000" />
     </task>
     <task id="LOCAL-00046" summary="코딩 테스트 깃 추가">
       <created>1681954886841</created>
@@ -2087,7 +2077,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688449391201</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="코딩 테스트 깃 추가">
+      <created>1688520754411</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1688520754412</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
