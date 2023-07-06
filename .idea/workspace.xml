@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efd6ffb-f430-4e71-a3b4-498968467983" name="Changes" comment="코딩 테스트 깃 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/면접/AA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/면접/BB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/Least캐시.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/버블정렬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/선택정렬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/알고리즘복습/이분검색.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/K번.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/모의고사.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/삼총사.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/소수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/약수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/예산.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/정수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/정수의제곱.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/제일작은.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/최대공약수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/키패드.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/햄버거.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/공원산책.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/기사단원.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/면접/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/면접/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/소스찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/소스찾기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/예산.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/예산.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +131,7 @@
       <recent name="dfsbfs1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.삼총사">
+  <component name="RunManager" selected="Application.예산">
     <configuration name="키패드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.키패드" />
       <module name="codingtest.main" />
@@ -1685,10 +1668,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.예산" />
         <item itemvalue="Application.삼총사" />
         <item itemvalue="Application.키패드" />
         <item itemvalue="Application.K번" />
-        <item itemvalue="Application.예산" />
         <item itemvalue="Application.소수" />
       </list>
     </recent_temporary>
@@ -1763,14 +1746,7 @@
       <workItem from="1688345966571" duration="43972000" />
       <workItem from="1688515392585" duration="23072000" />
       <workItem from="1688568620204" duration="1151000" />
-      <workItem from="1688604673907" duration="12884000" />
-    </task>
-    <task id="LOCAL-00048" summary="코딩 테스트 깃 추가">
-      <created>1681995202735</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1681995202735</updated>
+      <workItem from="1688604673907" duration="15924000" />
     </task>
     <task id="LOCAL-00049" summary="코딩 테스트 깃 추가">
       <created>1682085672279</created>
@@ -2108,7 +2084,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688562962122</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="코딩 테스트 깃 추가">
+      <created>1688621734574</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1688621734574</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -6,7 +6,7 @@ public class 예산 {
 
     public static void main(String[] args) {
         예산 d = new 예산();
-        d.solution(new int[]{1, 3, 2, 5, 4}, 9);
+        d.solution(new int[]{2,2,3,3}, 4);
     }
 
     static int[] check, arr;
@@ -18,7 +18,7 @@ public class 예산 {
         check = new int[len];
         max = Integer.MIN_VALUE;
         answer = 0;
-        DFS(0,0,0);
+        DFS(0);
         return answer;
     }
 
